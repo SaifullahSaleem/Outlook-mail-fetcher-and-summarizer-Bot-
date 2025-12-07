@@ -1,9 +1,3 @@
-# Outlook-mail-fetcher-and-summarizer-Bot-
-
-Absolutely\! Here is a comprehensive README.md for your GitHub repository, based on the provided files (`app.py`, `config.py`, `email_fetcher.py`, and `langchain_email_qa.py`).
-
------
-
 # 📨 Outlook Email Query App
 
 This is a Streamlit application that allows you to fetch your Microsoft Outlook emails for a specific day using the **Microsoft Graph API** and then ask questions about their content using **LangChain** and a **Large Language Model (LLM)** .
